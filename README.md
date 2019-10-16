@@ -5,12 +5,14 @@ This is the pytorch implementation of the paper "Parallel Attention: A Unified F
 ***If you use this code in your research, please cite our paper:***
 
 ```
-@article{zhuang2017parallel,
-  title={Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries},
-  author={Zhuang, Bohan and Wu, Qi and Shen, Chunhua and Reid, Ian and Hengel, Anton van den},
-  journal={arXiv preprint arXiv:1711.06370},
-  year={2017}
+@inproceedings{zhuang2018parallel,
+  title={Parallel attention: A unified framework for visual object discovery through dialogs and queries},
+  author={Zhuang, Bohan and Wu, Qi and Shen, Chunhua and Reid, Ian and van den Hengel, Anton},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4252--4261},
+  year={2018}
 }
+
 ```
 
 ## Dataset
@@ -44,8 +46,7 @@ python main.py
 
 Copyright (c) Bohan Zhuang. 2017
 
-** This code is for non-commercial purposes only. For commerical purposes,
-please contact Chunhua Shen <chhshen@gmail.com> **
+** This code is for non-commercial purposes only.
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
