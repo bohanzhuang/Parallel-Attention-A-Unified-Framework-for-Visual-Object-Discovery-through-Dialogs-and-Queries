@@ -1,0 +1,162 @@
+(lp0
+Vtoilet
+p1
+aVteddy bear
+p2
+aVsports ball
+p3
+aVbicycle
+p4
+aVkite
+p5
+aVlaptop
+p6
+aVtennis racket
+p7
+aVdonut
+p8
+aVsnowboard
+p9
+aVcarrot
+p10
+aVmotorcycle
+p11
+aVoven
+p12
+aVkeyboard
+p13
+aVparking meter
+p14
+aVchair
+p15
+aVbench
+p16
+aVmouse
+p17
+aVairplane
+p18
+aVboat
+p19
+aVapple
+p20
+aVsheep
+p21
+aVhorse
+p22
+aVcup
+p23
+aVtv
+p24
+aVtraffic light
+p25
+aVtoaster
+p26
+aVbowl
+p27
+aVfrisbee
+p28
+aVmicrowave
+p29
+aVcouch
+p30
+aVfire hydrant
+p31
+aVbook
+p32
+aVscissors
+p33
+aVelephant
+p34
+aVorange
+p35
+aVtie
+p36
+aVbird
+p37
+aVknife
+p38
+aVpizza
+p39
+aVfork
+p40
+aVhair drier
+p41
+aVsandwich
+p42
+aVumbrella
+p43
+aVbanana
+p44
+aVbus
+p45
+aVsuitcase
+p46
+aVbear
+p47
+aVvase
+p48
+aVtoothbrush
+p49
+aVspoon
+p50
+aVtrain
+p51
+aVsink
+p52
+aVpotted plant
+p53
+aVhandbag
+p54
+aVzebra
+p55
+aVcell phone
+p56
+aVbroccoli
+p57
+aVrefrigerator
+p58
+aVremote
+p59
+aVsurfboard
+p60
+aVcow
+p61
+aVdining table
+p62
+aVhot dog
+p63
+aVcar
+p64
+aVclock
+p65
+aVskateboard
+p66
+aVdog
+p67
+aVbed
+p68
+aVcat
+p69
+aVperson
+p70
+aVskis
+p71
+aVgiraffe
+p72
+aVtruck
+p73
+aVbottle
+p74
+aVbaseball bat
+p75
+aVcake
+p76
+aVwine glass
+p77
+aVstop sign
+p78
+aVbackpack
+p79
+aVbaseball glove
+p80
+a.

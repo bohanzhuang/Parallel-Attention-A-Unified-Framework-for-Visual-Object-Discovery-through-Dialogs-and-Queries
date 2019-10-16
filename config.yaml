@@ -1,0 +1,26 @@
+resume_train: True
+load_epoch: 1
+fine_tune: False
+
+# Learning Parameters
+n_epochs: 30
+learning_rate: 0.0001 # def:0.01
+lr_policy: step  # def: step or auto
+lr_adapt_threshold: 0.01
+lr_step: [50, 100, 150]  # def: 20, learning rate will be reduced by 10 times at these steps
+
+weights_dir: ./weights/
+
+batch_size: 16
+test_batch_size: 16
+train_info: ../../data/train_data_summary.json
+val_info: ../../data/val_data_summary.json
+test_info: ../../data/test_data_summary.json
+
+feature_dir: ../../data/features/
+region_feature_dir: ../../data/region_features/
+train_region_features: ../../data/train_region_features/
+val_region_features: ../../data/val_region_features/
+
+
+hidden_dim: 512
